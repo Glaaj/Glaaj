@@ -1,8 +1,4 @@
 # Hi there 👋
-![Glaaj user preview](https://github-readme-stats.vercel.app/api?username=Glaaj&show_icons=true&theme=dracula)
-
-- 👨‍💻 I’m currently working with infrastructure on AWS using `Terraform` and `Kubernetes` at my day job.
-- 📧 You can reach me at: glenn@cloudlegends.nl
 
 ## 💫 About Me:
 🔭 I’m currently working on AWS & Kubernetes at my day job<br>🌱 I’m currently learning `golang`<br>📧 You can reach me at: glenn@kabisa.nl<br>🔵 Linkedin: https://www.linkedin.com/in/glenn-eggen/
